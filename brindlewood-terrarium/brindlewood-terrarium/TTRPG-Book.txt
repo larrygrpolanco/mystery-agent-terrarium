@@ -1,0 +1,1137 @@
+THIS IS NOT TO BE REPLICATED
+This is for reference, but much of it must be translated into a format that can be used with llms agents in a simulation setting.
+
+BRINDLEWOOD
+BAY
+A Dark & Cozy Mystery Game by JASON CORDOVA
+Many thanks to the designers whose work helped inspire this game’s procedures and
+mechanics: Vincent Baker, Meguey Baker, Avery Alder, Oli Jeffery, Becky Annison,
+Joshua Fox, Marshall Miller, Michael G. Barford, and Jesse Ross.
+Thanks to the following playtesters: Fraser Simons, Tyler Lominack, and Oli Jeffery.
+And thanks to everyone who gave feedback during the development process of the game.
+Art by Cecilia Ferri and layout by Jesse Ross.
+BRINDLEWOOD
+BAY
+Overview & Setting
+5
+Structure of Play
+7
+Anatomy of a Character Sheet
+9
+Rolling Dice
+12
+Moves
+14
+The Keeper
+18
+Session 1 Procedure
+34
+Overview & Setting
+Overview
+Brindlewood Bay is a roleplaying game about a group of elderly women—
+members of the local Murder Mavens mystery book club—who frequent-
+ly find themselves investigating (and solving!) real-life murder mysteries.
+They become increasingly aware that there are supernatural forces that
+connect the cases they are working on and, in particular, a cult dedicated
+to the dark, monstrous aspect of the goddess Persephone will come to vex
+them.
+The game is directly inspired by the television show Murder, She
+Wrote, but also takes inspiration from the works of H.P. Lovecraft, “cozy”
+crime dramas, and American TV shows from the ‘70s, ‘80s, and ‘90s.
+The Setting
+Brindlewood Bay is a small coastal community in Massachusetts. A whal-
+ing town in the 18th and 19th centuries, it is now largely a tourist spot.
+Many locals have turned their homes into bed & breakfasts, and the town
+has antique shops, comfy dining spots, and artists and artisans of all kinds.
+Guided fishing trips are common.
+The Murder Mavens
+The Murder Mavens is a small mystery book club that has been meeting
+on the top floor of The Candlelight Booksellers every Saturday evening for
+the last ten years. The Murder Mavens are particularly fond of The Gold
+Crown Mysteries series by Robin Masterson, featuring the globe-trotting
+super-sleuth, Amanda Delacourt.
+The Mavens themselves are all elderly women whose partners have
+passed away and whose children have long flown the nest. Now, they’re
+enjoying their golden years in the picturesque town of Brindlewood Bay,
+keeping their homes the way they like, pursuing their hobbies, and finding
+comfort and companionship in each other.
+The Mavens are also amateur detectives, and by the time the game
+starts, they have helped local police solve several high profile crimes.
+Sometimes people approach them to get their help on a case, but usually
+the Mavens just stumble onto it—much to the chagrin of the authorities,
+who almost always resent their meddling.
+5
+Overview & Setting
+The Midwives of the Fragrant Void
+Why are so many murders taking place in and around Brindlewood Bay?
+And why are the Murder Mavens always around? Some have speculated
+that the Mavens must be committing these crimes themselves and using
+their knowledge gained from mystery books to frame others. But that, of
+course, is ridiculous. In fact, the reason Brindlewood Bay is the focus of so
+much death is because it is geographically and historically significant to a
+dark cult called the Midwives of the Fragrant Void.
+At the start of the game, the Mavens don’t know anything about the
+Midwives, but we do: they are a nihilistic cult of men and women dedicated
+to bringing forth the “children of Persephone,” chthonic monstrosities that
+will usher in the End of All Things. Their interest in Brindlewood Bay is
+an historical one: in the late 19th century, a whaling ship crew accidentally
+slew a child of Persephone, believing it to be a whale, and sold its parts to
+museums all over the world. The wealth generated from that particular
+voyage was used to build the town of Brindlewood Bay into what it is today.
+This intimate connection to a child of Persephone makes Brindlewood
+Bay a place of power to the Midwives of the Fragrant Void.
+As the game progresses, the Mavens will become ever-more-aware of
+the supernatural connections between the murders they are investigating,
+and will eventually come to understand the role of the Midwives of the Fra-
+grant Void. They may begin to dabble in the occult in order to combat the
+dark forces arrayed against them, come face-to-face with a child of Perse-
+phone, or even be tempted to join the Midwives themselves.
+6
+Structure of Play
+Structure of Play (Session Two and onward)
+The following structure of play applies to every session starting with Session
+Two. Session One has its own structure, which can be found at the end of
+this text
+Mystery Recap
+Mysteries that are not resolved by the end of a session carry over into
+the next session, and there can be multiple mysteries active at any given
+time. The Keeper will spend a few minutes re-capping where each active
+mystery stands at the beginning of each session, with an emphasis on the
+Clues that have been found for each.
+Resolve Cliffhangers
+If the previous session ended with one or more cliffhangers, resolve them
+with regular play. Continue regular play until some downtime is reached
+in the story, at which point you should continue to the next step, the Begin-
+ning of Session. If the previous session did not end with any cliffhangers,
+skip this step and go straight to the Beginning of Session.
+Beginning of Session
+This is a short housekeeping phase in which players mark new End of
+Session questions (if they wish) and resolve moves that take place at the
+beginning of a session.
+Cozy Vignettes
+Each player narrates a short vignette showing their Maven enjoying her
+life in Brindlewood Bay. These scenes should be light and breezy or warm
+and cozy; they should show the Maven enjoying her hobbies, helping with
+a community project, or working around her home.
+The Keeper Presents a New Mystery
+The Keeper will frame one or more scenes in which a new murder mystery
+is introduced to the Mavens. The Keeper will also inform the players of the
+mystery’s complexity rating, from 6 to 8. The presentation will always in-
+clude an establishing question that closely ties one or more Mavens to the
+mystery. If there are already three active mysteries, skip this step.
+7
+Structure of Play
+Investigation
+The bulk of the session will be taken up by the Murder Mavens’ investi-
+gation of one or more active mysteries. The players can pursue any leads
+their Mavens might be interested in, or they can request downtime scenes
+in which we see the Mavens bonding with each other or members of the
+community.
+Crown Scenes
+There are two special sections on the character sheet: The Crown of
+the Queen and The Crown of the Void. When text from those sections is
+marked during play, the player of the Maven in question must do as the text
+instructs. This frequently means narrating a very specific type of scene.
+Players can narrate such scenes whenever they wish, but must do so be-
+fore the End of Session (see: Anatomy of a Character Sheet > Putting on
+a Crown).
+End of Session
+The character sheet has a section called End of Session. At the end of the
+session, each player should read aloud the questions they have marked
+there. For each one they answer “yes” to, they mark an XP (see: Anatomy
+of a Character Sheet > End of Session Questions; XP Track).
+Stars & Wishes
+The Keeper and players should take a few minutes to share their stars and
+wishes. Stars are things about the session the participant enjoyed. Wishes
+are things they hope to see in the next session. Stars & Wishes is a tech-
+nique by Lu Quade.
+8
+Anatomy of a Character Sheet
+Anatomy of a Character Sheet
+The following sections encompass the relevant rules for each part of the
+character sheet and are addressed to players.
+Name
+You should circle any given name you wish and then come up with a sur-
+name on your own. Alternatively, you can come up with both given name and
+surname.
+Style
+The chosen style should reflect the Maven’s basic outlook on life. The Ma-
+vens don’t always have to be dressed in a manner that matches their style.
+Cozy Activity
+The Maven’s cozy activity represents their favorite hobby or pastime. No
+two Mavens can have the same cozy activity.
+End of Session
+These questions represent roleplaying goals for the session. You can have
+three questions marked, and the first question on the list is always marked.
+For each marked question you answer “yes” to at the end of the session,
+mark an XP. At the beginning of a new session, you can unmark your two
+elective options and mark two different ones, or leave either or both the
+same.
+XP Track
+When you mark all five boxes on the XP track, erase them whenever you
+wish and mark an advancement (see Advancements, below). There are
+two ways to mark the XP track: 1) by answering “yes” to an End of Session
+question and 2) when the text of a move instructs you to.
+Advancements
+When you mark an advancement, immediately apply its effects to your
+character sheet. When all advancements have been marked, your Maven
+can no longer collect XP or advance, but they are in play until forced to
+retire by The Crown of the Void or until you decide to retire them (see
+Putting on a Crown).
+9
+Anatomy of a Character Sheet
+Abilities
+These are the character attributes that are applied to most die rolls.
+Use Vitality if your Maven’s action involves strength, dexterity, endurance,
+athleticism, or raw physicality.
+Use Composure if your Maven’s action requires a steady hand, a calm
+disposition, or intense concentration; or if they are trying to avoid a fear-
+based reaction.
+Use Reason if your Maven is studying books, researching a problem, ex-
+amining a crime scene, or otherwise engaging their mental faculty.
+Use Presence if your Maven is trying to charm someone, intimidate some-
+one, or capture someone’s imagination.
+Use Sensitivity if your Maven’s action involves supernatural forces; the
+Keeper may decide that any action that is seemingly governed by a differ-
+ent ability is actually governed by Sensitivity because of the supernatural,
+spiritual, or occult nature of what is being undertaken.
+Conditions
+Conditions are negative traits that cause you to make die rolls at a disad-
+vantage if they would feasibly hinder your Maven during an action (see
+Rolling the Dice). You can have up to three conditions. If you would ever
+take a fourth condition, you instead mark one of your Crowns (see Putting
+on a Crown). Conditions are removed as the result of moves or when the
+Keeper instructs you to do so.
+Maven Moves
+Unlike the basic moves on the Reference Sheet, a Maven move can only be
+used if you have it written on your character sheet. The Maven move is one
+of the ways you personalize your Murder Maven.
+10
+Anatomy of a Character Sheet
+Putting on a Crown
+The next section of the character sheet is divided into two parts: The
+Crown of the Queen and The Crown of the Void. You will occasionally be
+instructed to “put on a Crown,” in which case you read the specific instruc-
+tions on the character sheet and then mark a box from one of these two
+sections. You must then do as the marked text instructs before the current
+session ends.
+The Crown of the Queen represents the idea of your Maven as a woman.
+The text involves flashbacks to her life as a partner, mother, and sister; and
+present-day scenes that show her being romantic or sexual, or having a
+complicated inner life. The entries can be marked in any order.
+The Crown of the Void represents the effects of the dark conspiracy on
+your Maven. The text is always marked in order, and the last box heralds
+your Maven’s retirement from the game.
+A Cozy Little Place
+This section of the character sheet is where you note interesting and dis-
+tinctive items that can be found in your Maven’s home in Brindlewood Bay.
+This section also functions as an equipment list, since anything from the
+Cozy Little Place that might reasonably be on a Maven’s person in a scene,
+is. Items from your Cozy Little Place can be marked to get an advantage
+on a die roll (see Rolling the Dice). Generally-speaking, they cannot be
+un-marked, but marked items remain in your Cozy Little Place for use in
+future scenes, in which case they add to the fictional positioning of your
+Maven’s actions but do not convey a bonus to a die roll.
+At the beginning of Session One, you and the other players will have
+an opportunity to add items to your Cozy Little Place. After that, items can
+be added as the result of moves or when the Keeper instructs you to do so.
+11
+Rolling Dice
+Rolling Dice
+In Brindlewood Bay, only players roll dice, and so this section is addressed to
+them.
+2d6 + ability modifier
+In most cases, when you roll dice because a move instructed you to do so,
+you roll two 6-sided dice, sum them, and then add the modifier from the
+relevant ability. You then check the result against the text of the move. If a
+move refers to a “hit,” it means a result of 7+. If a move refers to a “miss,” it
+means a result of 6-.
+Advantage
+When you have an advantage, you roll three dice, keep the two highest,
+sum them, and then add the modifier of the relevant ability. You will most
+often have an advantage because of the following:
+• A move gives you an advantage.
+• Your Maven is using an un-marked item from the Cozy Little Place in
+their action.
+Disadvantage
+When you’re at a disadvantage, you roll three dice, keep the two lowest,
+sum them, and then add the modifier of the relevant ability. You will most
+often be at a disadvantage because of the following:
+• A condition negatively impacts your Maven’s action.
+• The Keeper believes it’s appropriate under the current circumstances.
+Advantage and disadvantage?
+If circumstances would cause you to both have an advantage and be at
+a disadvantage during an action, they cancel each other out and you roll
+as normal. Please note, however, that advantage and disadvantage do not
+“stack,” nor can one outweigh the other. For example, if you have two con-
+ditions, each of which would plausibly put you at a disadvantage, and one
+Maven move that gives you an advantage, you would simply roll as normal,
+without advantage or disadvantage.
+12
+Rolling Dice
+The Crown and die rolls
+In Brindlewood Bay, the Keeper will always go hard against you because
+you have a tool that allows you to resist their moves: putting on a Crown.
+After a die roll, and after an outcome has been narrated, you can choose
+to put on a Crown and increase your die result by one tier (so, a miss
+becomes a 7–9, a 7–9 becomes a 10–11, and a 10–11 becomes a 12). In
+that case, we narrate a different result, and what was previously narrated
+does not occur (we say it was a different timeline that we got to collectively
+experience but that did not actually happen).
+An example:
+Oli’s character, Hyacinth, is attempting to escape the clutches of an angry
+mobster she has just revealed to be the murderer in a case. Oli triggers a
+move, rolls his dice, and gets a miss. The Keeper describes how the mob-
+ster catches Hyacinth and throws her off a cliff—to her death—to prevent
+her from bringing her evidence to the police. Oli decides he doesn’t like
+this outcome and puts on a Crown, making his die result a 7-9. This time,
+Hyacinth escapes but drops a piece of information the mobster can use to
+track her down later.
+You may be asking yourself: “Why does the Keeper fully narrate a result
+that they know the player is just going to discard by putting on a Crown?”
+Answer: because it’s fun! The Crown lets us glimpse different timelines,
+play them out, feel them, experience the anguish and terror, and then...
+do something different. It’s sort of like one of those old Choose Your Own
+Adventure books: part of the fun is making the wrong choice so you can
+see the disaster that befalls your character (and putting on a Crown is like
+putting your thumb on the page of those old books, so you can go back and
+choose something else if you chose poorly).
+13
+Moves
+Moves
+There are two types of moves: basic moves and Maven moves. Mavens
+have access to all the basic moves in addition to one or more Maven moves
+specific to them. Where the text of a Maven move contradicts a basic move,
+the Maven move has priority. The Maven moves can be found on the Maven
+Moves sheet. The basic moves can be found on the Reference Sheet and
+are discussed below.
+The Day Move
+When you do something risky or face something you fear, name what
+you’re afraid will happen if you fail or lose your nerve, then roll with an
+appropriate ability.
+On a 10+, you do what you intended or you hold steady; describe what it
+looks like.
+On a 7–9, the Keeper will tell you how your actions would leave you vul-
+nerable, and you can choose to back down or go through with it. If you go
+through with it, the Keeper describes what it looks like.
+On a 12+, you do what you intended or you hold steady, and the Keeper
+will tell you some extra benefit or advantage you receive. Describe what it
+looks like.
+The Day Move is a catch-all move for actions that take place during the day.
+The Keeper has final say on which ability is used for the roll.
+The Night Move
+When you do something risky or face something you fear, name what
+you’re afraid will happen if you fail or lose your nerve. The Keeper will
+tell you how it is worse than you fear. You can choose to back down or go
+through with it. If you go through with it, roll with an appropriate ability.
+On a 10+, you do what you intended or you hold steady; describe what it
+looks like.
+On a 7–9, you do it or hold steady, but there is a complication or cost; the
+Keeper describes what it looks like.
+14
+Moves
+On a 12+, you do what you intended or you hold steady, and the Keeper
+will tell you some extra benefit or advantage you receive. Describe what it
+looks like.
+The Night Move is the catch-all move for actions that take place at night.
+Since taking action at night is more dangerous than doing so in the day, the
+Night Move is written to have more perilous outcomes for the Mavens than
+the Day Move. The Keeper has final say on which ability is used for the roll.
+The Meddling Move
+When you search for a clue, conduct research, or otherwise gather infor-
+mation, describe how you’re doing so and roll with an appropriate ability.
+On a hit, you find a Clue. The Keeper will tell you what it is.
+On a 7–9, there’s a complication—either with the Clue itself, or a compli-
+cation you encounter while searching. The Keeper will tell you what the
+complication is.
+On a 12+, you also find a Void Clue OR you learn something about the dark
+conspiracy in Brindlewood Bay (Keeper’s choice).
+The Meddling Move is the main way a Maven turns up Clues. The Med-
+dling Move is written to cover all types of information-gathering actions,
+and the ability used for the roll should match whatever action is taken.
+So, for example, if a Maven is gathering information by sweet-talking a
+local law enforcement official, her player would roll with Presence. If they
+are gathering information by silently listening to a conversation they ar-
+en’t supposed to hear, her player would roll with Composure. If they are
+digging through books at the local library, they’d roll with Reason. And so
+forth. The Keeper has final say on which ability is used for the roll.
+The Cozy Move
+When you have an intimate moment with another Maven while one of
+you is engaged in your cozy activity, choose two from below if it’s your
+cozy activity. Otherwise, choose one.
+• You may ask the other player a question about their Maven which they
+must answer truthfully and completely.
+• The other Maven agrees on a particular course of action, or give them a
+condition if they refuse.
+• Clear an appropriate condition (can be chosen twice).
+15
+Moves
+Alternatively, if it’s your cozy activity, you may:
+• Stumble on a Clue relevant to an active mystery. Tell the Keeper what it
+is. The Clue cannot conclusively solve the mystery by itself.
+This move serves several practical purposes, such as clearing conditions,
+but is principally designed to show the close relationship between indi-
+vidual Murder Mavens, as well as giving a glimpse into their lives in the
+community of Brindlewood Bay.
+The Gold Crown Mysteries Move
+Once per game, when any Maven says “This reminds me of something
+that happened to Amanda Delacourt!”, work with the other players to
+describe how something that is happening in the situation reminds the
+Mavens of an event from one of The Gold Crown Mysteries. At a minimum,
+you must provide the following information:
+• The name of the Gold Crown Mystery in question (no repeats, please!).
+• The problem or situation Amanda found herself in that is similar to what
+the Mavens are experiencing.
+• How Amanda eventually overcame the problem or resolved the situation.
+Then, take a 12+ to a single relevant roll OR state a fact about the current
+situation that the Keeper must incorporate.
+The Murder Mavens share a love for the Amanda Delacourt novels penned
+by the mysterious author, Robin Masterson, and will frequently refer to
+Amanda’s travails when investigating mysteries of their own. This move is
+very powerful and, generally-speaking, can only be used once—total—per
+session.
+The Occult Move
+When you engage in an activity related to the supernatural or the occult
+for the first time, imagine what your actions would look like as a move.
+Say what triggers the move and roll with Sensitivity.
+On a hit, it works; work with the Keeper to write the move—it is now a
+move all Mavens can use for the rest of the game and your roll stands.
+On a 7–9, you must also mark The Crown of the Void.
+On a miss, it’s not something the Mavens can ever do and you also mark
+The Crown of the Void.
+16
+Moves
+At the beginning of the game, the Murder Mavens have little to no famil-
+iarity with the occult, and they are entirely unaware of the dark conspiracy
+of the Midwives of the Fragrant Void. But as the game progresses, they
+will become more attuned to the deeper mysteries, and may even begin to
+dabble in the occult themselves. This move helps cover those situations
+and creates new moves based on what the Mavens undertake. But beware!
+This move is incredibly dangerous, as even a hit can push the Maven one
+step closer to retirement.
+Theorize
+When the Mavens have an open, freewheeling discussion about the
+solution to a mystery based on the clues they have uncovered—and
+reach a consensus—roll plus the number of Clues found (not including
+Void Clues), minus the mystery’s complexity.
+On a 10+, it’s the correct solution. The Keeper will present an opportunity
+to take down the culprit or otherwise save the day.
+On a 7–9, it’s the correct solution, but the Keeper will either add an un-
+welcome complication to the solution itself, or present a complicated or
+dangerous opportunity to take down the culprit or save the day.
+On a 6-, the solution is incorrect, and the Keeper reacts.
+On a 12+, a person involved in the dark conspiracy of Brindlewood Bay
+also reveals themselves to the Mavens.
+Theorize is a very fun move, and meant to simulate those great scenes
+in mystery stories where the protagonists are puzzling aloud about who
+might have done it. Note that it doesn’t matter who rolls Theorize when the
+time comes. Also, Theorize is not subject to any modifiers on the die roll
+(Advantage, the effects of The Gold Crown Mysteries Move, etc.) nor can it
+be affected by putting on a Crown.
+17
+The Keeper
+The Keeper This section is addressed to whoever will be the Keeper for your game of
+Brindlewood Bay—that is, the person responsible for presenting mysteries,
+describing environments, portraying non-player characters, and depicting
+how the world reacts to the actions the Murder Mavens take.
+Your Role
+This is a game about solving mysteries. You’ll present the basics of a mur-
+der mystery to the player characters, who will conduct an investigation,
+gather clues, and ultimately bring the culprit to justice. If you have played
+other tabletop roleplaying games where the characters solve mysteries,
+much of Brindlewood Bay will feel familiar. However, there are three signif-
+icant differences with most of those games you need to be aware of: 1) the
+clues are not located in specific places, and, in fact, can be found wherever
+the Mavens are looking; 2) you don’t have any notion who the killer is until
+the Mavens successfully do the Theorize move; and 3) the murder myster-
+ies aren’t the real mystery—there’s a layer beneath them, a dark conspiracy
+that you will develop and track through multiple sessions of play.
+In addition to presenting the murder mysteries and managing the dark
+conspiracy, you are generally responsible for portraying the world around
+the Murder Mavens. This means you give voice to non-player characters
+they interact with, you describe elements of a scene when needed, you
+challenge them with dangers and obstacles, and you show how the world
+reacts to the actions they take.
+Anatomy of a Mystery
+What follows are the elements that make up a Brindlewood Bay mystery.
+You can use mysteries published for use with Brindlewood Bay, or make
+up your own following this structure.
+Title
+The name of the mystery. Feel free to share this with the players. A good
+title will include a pun or some other groan-worthy joke.
+Complexity
+A number between 6 and 8 that represents the relative length and difficulty
+of the mystery. For local or shorter mysteries, 6 or 7 is appropriate. For
+mysteries that extend to places outside Brindlewood Bay or are particular-
+ly complex, 8 is appropriate.
+18
+The Keeper
+Presenting the Mystery
+These are the details the Keeper needs to explain to the players when be-
+ginning a new mystery. This section frequently indicates the manner and
+place in which the Mavens learn about the mystery, usually through one or
+more scenes. In most mysteries, you will also be required to introduce the
+Suspects during this process.
+Establishing Question
+This is a question posed to one player character shortly after the presen-
+tation of the mystery. The goals are to personalize the mystery for one of
+the Mavens, to give the group more of a reason to be invested, and to give
+the player answering the question a chance to shape the events to come.
+Suspects
+These are the non-player characters who are most likely to turn up during
+the mystery (though it is certainly not an exhaustive list). Each Suspect has
+a name, three descriptive details, a short explanation of their personality
+or role, and a quote to inspire your roleplaying. For mysteries with a com-
+plexity rating of 6 or 7, a cast of seven or eight Suspects is appropriate. For
+mysteries with a complexity rating of 8, a cast of nine or more Suspects is
+appropriate, with twelve as the upper limit.
+Paint the Scene
+Paint the Scene is a Keeper technique wherein you ask the players, some-
+times out-of-character, a question about an environment or location that
+helps explore a theme or idea associated with that location. The Paint the
+Scene locations are likely to be prominent in the mystery. For a mystery
+with a complexity rating of 6 or 7, three or four Paint the Scene locations
+is appropriate. For a mystery with a complexity rating of 8, four or five
+Paint the Scene locations is appropriate. Typically, you pose the Paint the
+Scene question to the players when their Mavens first enter the associated
+location.
+Clues
+These are uncovered by the players’ use of the Meddling Move (and, more
+rarely, the Cozy Move and certain Maven moves). When the time comes to
+reveal a Clue, simply circle one on the mystery sheet and work it into the
+fiction. A mystery should have at least twenty possible Clues.
+19
+The Keeper
+Void Clues
+These are special clues the Mavens may discover during their investiga-
+tion. These Void Clues have no direct bearing on the mystery’s resolution.
+Rather, they are meant to show the influence of the Midwives of the Fra-
+grant Void and their dark conspiracy. When the time comes to reveal a Void
+Clue, simply circle one on the mystery sheet and work it into the fiction.
+You may also want to track the number of Void Clues discovered on the
+dark conspiracy sheet. A mystery should have at least six possible Void
+Clues.
+20
+The Keeper
+Keeper Principles
+This section explains the general principles you should bear in mind when
+running a game of Brindlewood Bay. You will occasionally find yourself
+in a situation that isn’t explicitly covered by the rules or where you need
+to make up something on the fly. So long as you are following the Keeper
+principles, your improvisations will come across as authentic and fair.
+Advice for specific moves and game circumstances will be given later
+(see Detailed Keeper Advice).
+Play to find out what happens
+You have a mystery, a cast of Suspects, and a list of Clues, but none of
+it is set in stone. Be willing to let the session unfurl on its own terms. If
+a player has a cool idea that doesn’t quite match what’s on the mystery
+sheet, go with it. In fact, many parts of the game will explicitly challenge
+your preconceived ideas—answers to establishing questions, answers to
+Paint the Scene questions, the Gold Crown Mysteries move, and Theorize,
+to name a few—so be flexible and ready to incorporate things you hadn’t
+considered.
+Make the world and everyone in it seem real
+Describe the world in sensory-rich detail. You have some help here: the
+Suspects in a mystery each come with three descriptive details and notes
+on how to play them, and key mystery locations have Paint the Scene
+questions to help enrich the scene. Use these as a foundation for how you
+approach everything in the world. Give non-player characters not listed
+among the Suspects three descriptive details to bring them alive; think
+of your own Paint the Scene question for a location that takes on sudden
+importance.
+Be a fan of the Mavens
+This doesn’t mean “let them win.” It means “give them challenges that
+make you root for them.”
+Sometimes, disclaim decision-making
+You are co-creating the story with the players. Let them chime-in to flesh
+out the world, describe things they see, and get invested in what’s happen-
+ing. Also, when you aren’t sure how to react to the result of a move, ask the
+table for advice.
+21
+The Keeper
+Keep it cozy
+This is a very important principle for capturing the feel of the game. Don’t
+let dangerous scenes take up the whole session, and don’t always focus on
+the grim details of the murder or the dark conspiracy. Reveal and discuss
+those things as needed, but always return to the soft, cozy aspects of the
+setting: cut to the day when appropriate, showing the Mavens living their
+lives in Brindlewood Bay; encourage the use of the Cozy Move, especially if
+a Maven has a condition; and ask lots of questions about the Mavens’ lives
+in this charming little town.
+Make nighttime dangerous
+And yet, any scenes at night should be heightened by a sense of dread
+or pregnant with grim portent. In this game, the main characters can be
+placed in direct, physical danger, which is a departure from the cozy crime
+dramas that inspire it, but necessary for it to have real stakes—and appro-
+priate, considering the dark conspiracy that underpins the story.
+Keep dangerous characters occluded
+The Mavens will frequently be put in physical danger before they have
+solved a mystery. It’s very important that any time a character threatens
+the Mavens, their identity is unknown—to the Mavens, to the players, and
+to you. They must always stay in the shadows, be wearing a disguise, or
+simply be a character the Mavens can’t identify. To do otherwise would risk
+saying too much about the solution to the mystery.
+Of course, once the Mavens have engaged the Theorize move, you can dis-
+regard this principle for the mystery in question.
+Present the Void in a matter-of-fact way
+Void Clues and the unfurling conspiracy of the Midwives stand in sharp
+relief against the cozy backdrop of Brindlewood Bay. The temptation is
+to present these things in a “scary” manner—perhaps with exaggerated,
+Vincent Price-esque mannerisms. Unless you feel particularly confident
+in your ability to be “scary” at the table, you should present creepy things
+in a calm, measured, matter-of-fact way. That calm, plain presentation will
+itself stand in contrast to the things being described, which is its own kind
+of creepy. The players’ imaginations will do the rest.
+22
+The Keeper
+Keeper Reactions
+You will frequently be asked to define and narrate complications resulting
+from a die roll, or otherwise “react” to a situation. Generally-speaking, a
+good reaction is one that complicates a Maven’s life in an interesting way
+and follows logically from the established fiction. If you can’t think of a nat-
+ural reaction based on what’s happening in the fiction, choose a reaction
+from the list below, modifying as needed.
+Separate the Mavens
+The Mavens will usually want to stay together, so complicate their lives by
+separating one or more of them from the group. Are the Mavens looking
+around a creepy old mansion? Perhaps one of them enters a one-way se-
+cret passage. Are they getting nosy in the middle of a swanky cocktail par-
+ty? Have a guest come whisk one of them away. Are they snooping around
+a private yacht? Maybe a shadowy figure locks one of them in a cabin. The
+important thing is that whatever happens next to the separated Maven(s)
+should be fascinating or perilous.
+Kill a Suspect
+Nothing will get the Mavens’ (and players’) attention like having a Suspect
+turn up dead. This reaction is particularly effective if the Mavens were
+starting to narrow in on this character as the perpetrator of the original
+murder that kicked off the mystery. Note that this is a very strong Keeper
+reaction, and really only appropriate as the result of a missed roll.
+Inflict a condition
+This a trusty, go-to Keeper reaction for nearly any situation. A condition
+is a one-word adjective or short phrase, and it should follow directly from
+whatever just happened in the fiction. For example, if a Maven got side-
+swiped by a car peeling away from a crime scene, you might give them the
+condition “Banged-up.” If they just had a very frustrating, condescending
+conversation with Sheriff Dalyrmple, you might give them the condition
+“Irritated.” If they are having a little too much fun at Abner Vidal’s Hal-
+loween party, you might give them the condition “Had one too many.” A
+condition can be cleared by the use of the Cozy Move, or simply because
+you think it’s appropriate given the circumstances.
+23
+The Keeper
+Put a Maven in danger
+“Danger” can mean physical danger or something else. Is a Maven sneak-
+ing into a warehouse after hours? Maybe a shadowy figure trains a gun on
+her and tells her to go back where she came from. Are the Murder Mavens
+tagging along with a fishing tour in order to question the tour operator?
+Maybe a powerful storm suddenly appears on the horizon. Is a Maven a
+contestant on the Jolly Good Baking Show? Maybe the custard for her tarte
+tatin isn’t setting properly.
+Show a Maven being killed
+Kill a Maven! It’s totally fine. Make it gruesome, if you want. The players
+can always put on a Crown to get a fictional do-over. Note that this is a very
+strong reaction that is only appropriate as the result of a missed roll, and
+even then only if it was adequately telegraphed to the player beforehand
+(see Detailed Keeper Advice, The Day Move and The Night Move).
+Remove an item from their Cozy Little Place
+Just like inflicting a condition, this is a very dependable, go-to reaction for
+many situations. Essentially, if they were using something from their Cozy
+Little Place, have them lose it—it breaks, is stolen, is misplaced, etc.
+Have an official show up
+This reaction is a very important genre convention and should be used
+liberally. The idea is that an official, usually a member of local law enforce-
+ment, shows up and interferes with the Mavens’ investigation in some way.
+Note that we use the term “official” very loosely here—anyone with author-
+ity over the situation will do. A nosy maitre’d can be just as troublesome in
+a fancy restaurant as a surly detective can be at a crime scene.
+Cut to commercial
+This is a very special Keeper reaction, one that pays homage to the tele-
+vision shows that inspired the game, and suggests that Brindlewood Bay
+is, itself, a television show. Here’s how it works: if a Maven undertakes a
+perilous or dramatic action that provokes a die roll, and that die roll is a
+miss, you can say “Let’s cut to commercial!” before the outcome is narrat-
+ed. Then, give the player of the Maven a short prompt related to the sorts
+of things that might be advertised to elderly people, or people who are
+at home in the middle of the day, such as “furniture store,” “Life Alert,”
+“sweepstakes,” or “personal injury attorney.” The player may then narrate
+24
+The Keeper
+a commercial inspired by the prompt. If they do so, return to the regular
+scene and allow the player to narrate the outcome as if they had rolled a
+10–11.
+This Keeper reaction is actually a powerful benefit to the players, so be
+judicious with how often you use it—once per session is plenty.
+Detailed Keeper Advice
+This section contains advice for specific moves, rules, and procedures. You
+can easily run Brindlewood Bay using only the Keeper principles and re-
+actions above, but the following will significantly enrich the experience for
+you and your players.
+The Day Move and The Night Move
+The Day Move and The Night Move are going to get rolled for the vast
+majority of non-investigation actions requiring a die roll, and so you need
+to have a good understanding of how they work, how they differ from one
+another, and when to trigger them.
+The first thing you need to be aware of is that these moves do not have
+miss conditions in their text. Should a player roll a miss, they most likely
+fail in the action they were taking, but not necessarily—it’s up to you wheth-
+er they fail or succeed. In either case, you will perform a Keeper reaction.
+In general, this Keeper reaction should be stronger (or harder) than the
+complication or cost they might have incurred on a 7-9, and it should flow
+logically from the established fiction.
+Another thing to understand here is that these moves are a negotia-
+tion between player and Keeper. The player tells you what they are afraid
+will happen if they should fail the roll. You are free to disregard what the
+player has offered when considering how to react—especially if the player’s
+suggestion is soft or nonsensical—but if they have given a good, genuine
+answer to what they are afraid of, you should do your best to incorporate it.
+Doing so sends a signal to the player that this is a collaborative storytelling
+process, and they’ll be eager to give you some good stuff to work with in
+the future.
+The Night Move has a slight wrinkle: after the player says what they’re
+afraid of, you must tell them how it’s worse than they fear. Again, when
+saying how things are worse, you can disregard what the player suggested
+if what they suggested was too soft, but do your best to riff off what they
+give you. Another important aspect of “telling them how it’s worse” is being
+honest about how it’s worse. If it’s possible for the Maven to sustain a seri-
+25
+The Keeper
+ous injury, tell them that. If it’s possible for a Maven to be killed, tell them
+that. They have the option of backing down after you say how bad it’s going
+to be but before they actually roll. If they roll, get a miss, and then you show
+their Maven being killed when you didn’t previously tell them this was a
+possibility, the player is going to feel cheated.
+One final thing about The Day Move and The Night Move: they trig-
+ger whenever a Maven is facing something they fear. This is a somewhat
+passive use-case (and thus easy to forget), but a very important one for a
+game that has horror elements. The Mavens will witness things that are
+shocking or horrifying, and depending on how they handle themselves in
+that moment, things could get very sticky for them. Trigger The Day or
+Night move to see if they can keep it together (in most cases, they will be
+rolling with Composure).
+The Meddling Move
+This move is a critical part of the engine that makes this game go—if the
+Mavens aren’t gathering Clues, they aren’t getting any closer to solving
+mysteries, and the story comes to a complete halt. The important thing
+to understand here is that you should be very generous when interpreting
+what counts as triggering this move. Sometimes it will be very obvious: if
+a Maven is poking around someone’s home, they are definitely doing the
+Meddling Move. Other times, it will be more subtle: if they’re comforting a
+grieving family member, they may be doing so in order to get that person to
+reveal something important. Ask the player if you’re unsure: “Are you trying
+to trigger the Meddling Move here?”
+The Occult Move
+This move should be used very infrequently and, in fact, it’s quite danger-
+ous to use at all—a 9 or lower will put a Maven one step closer to retire-
+ment. The text of the move should be enough to dissuade most players, but
+you might go one step further and require that the Mavens have a strong
+fictional justification for attempting something of an occult nature. Maybe
+they need to find the instructions for a ritual before they can attempt mag-
+ic, or perhaps they need to find a special set of tarot cards before they can
+attempt divination.
+When writing new moves, be willing to give the player what they want,
+but make sure they understand the consequences of failure might be very
+high indeed—a high reward means a high risk. For example, if they want
+to write a move that allows the Mavens to summon demon-like servitors
+to help them battle the monstrous children of Persephone, perhaps the
+26
+The Keeper
+downside of the move is they have to give up their immortal soul to do so,
+or even do battle with the demon after it has served its purpose!
+If you’re unsure how to proceed when it comes to writing new moves,
+the best way to get started is to simply make a very fictionally-specific ver-
+sion of The Night Move, one that has a detailed miss result and that disre-
+gards the player-Keeper negotiation. Here’s a basic framework:
+When you [do the thing that triggers the move], roll with Sensitivity.
+On a 10+, you [succeed at whatever you were trying to do]. Describe it.
+On a 7–9, [you succeed at what you were trying to do] but [very specific
+complication or cost]. The Keeper describes it.
+On a miss, [very strong, specific cost]. The Keeper describes it.
+Here’s an example of the framework in action:
+When you attempt to summon a demon servitor to your side, roll
+with Sensitivity.
+On a 10+, the demon appears and will serve you for a time. Describe it.
+On a 7–9, the demon appears and will serve you for a time, but will
+require a blood sacrifice as payment for its services.
+On a miss, the demon appears but is not bound to you.
+Clues and Void Clues
+The Clues listed for each mystery are written to be fairly diverse and flex-
+ible—you should be able to find something that fits the situation. Impor-
+tantly, you can make adjustments to the Clues so that they make sense
+in the context of the investigation. Consider the Clue “Instructions to cut
+someone out of a will.” These could be literal instructions, such as written
+correspondence to a lawyer a Maven finds on someone’s desk, but perhaps
+the Maven learns this detail in a conversation with the person who was cut
+out of the will.
+27
+The Keeper
+Additionally, it may be important to provide extra context for the Clue.
+Using the example above, it will be important to know, at a minimum, who
+is being cut out of the will. The text of the Clue doesn’t tell you that—it’s on
+you to provide those details when you reveal it. When providing that extra
+context, be careful you don’t automatically solve the mystery or otherwise
+discourage further investigation.
+Sometimes a Clue has a natural follow-up question the Mavens will
+want the answer to. In that case, let them do The Day Move or The Night
+Move to find the answer—or just give it to them if it would be fairly easy to
+come by—and then change the text of the Clue to reflect the new informa-
+tion. Do not count the new information as a new Clue. An example:
+The Mavens find the following Clue: “A sequence of numbers written
+on a slip of paper.” They decide they want to know what the numbers mean
+and so they take them to an expert who explains the numbers are most
+likely the combination to a safe. The Keeper then rewrites the Clue to re-
+flect this new information: “A slip of paper with the combination to a safe
+on it.”
+Theorize
+The text of the move says “When the Mavens have an open, freewheeling
+discussion...” but, in practice, this discussion is being had by the players,
+not the Mavens, and, as the Keeper, you have a role to play, too. You should
+feel free to offer your own thoughts, challenge the assumptions being
+made, and interrogate theories that fail to account for certain Clues. If a
+player is being demure during this process, cut in and ask them for their
+opinion on things. If a player is dominating the conversation, go around
+and confirm with the other players that they agree with what the dominant
+player is suggesting. Importantly, you need to guide the conversation to a
+consensus so a die roll can take place.
+Another important job you have during Theorize is to invite the players
+to offer critical context to the discussion of Clues. The Clues they have gath-
+ered will frequently seem disjointed or incongruent with one another—and
+that’s by design, so they can be used flexibly. Encourage the players to add
+the context necessary to make the Clues fit their theory. For example, if
+the Mavens found a severed finger during an investigation, and they are
+leaning toward accusing a character named Elena, they need to account
+for how the finger might be connected to Elena (after all, a severed finger
+is a difficult Clue to ignore). The conversation may turn to the idea that
+whoever killed the victim had a finger cleaved off in the struggle, and so if
+Elena is missing a finger, she definitely did it. Very likely, no one thought
+28
+The Keeper
+to look at Elena’s hands during the investigation, but during Theorize, it’s
+ok for an incriminating detail like this to be added to the fiction. And so, a
+player might suggest that Elena was always seen wearing gloves, and that
+might be how she hides her wound. As the Keeper, you should encourage
+this kind of “ret-conning” of the established fiction so the players can arrive
+at a theory of the crime that incorporates most or all of the Clues.
+A Cozy Little Place
+Look for opportunities to let players add items to the Cozy Little Place sec-
+tion of their character sheets. If an object is particularly memorable during
+the mystery, or if the Maven goes through the trouble to find something
+strange or rare, invite the player of the Maven most closely associated with
+the object to add it to their Cozy Little Place.
+When it comes to Mavens actually using items in the Cozy Little Place,
+you will need to remind the players about this, especially during the first
+couple of sessions. So, if a die roll is coming up—especially one where the
+stakes are high—ask the player how something from their Cozy Little Place
+might be helpful so they can get an advantage (or negate a disadvantage).
+Running Brindlewood Bay as a one-shot
+Sometimes you only have one session to play Brindlewood Bay, perhaps
+because you are running it at a convention or as a short diversion for your
+regular group. To run the game as a one-shot, simply follow the Session
+One Procedure at the end of this text but lower your chosen mystery’s com-
+plexity to 4 or 5. A complexity of 4 or 5 is high enough to present a chal-
+lenge but low enough to make it very likely the mystery can get solved in
+one sitting.
+No matter what, when you have about half an hour remaining in the
+session, wrap up whatever scene is taking place and then go straight to
+Theorize. If the Theorize move goes poorly, end the session on a cliffhang-
+er and explain to the players you would pick up the mystery in a hypothet-
+ical Session Two.
+Certain aspects of the game, such as the dark conspiracy and putting
+on a Crown, won’t have as much significance in a one-shot. You should still
+play things out as-written so that participants get a sense of the game’s
+tone and what a longer campaign would be like.
+29
+The Keeper
+Maven moves
+Below is Keeper advice for some of the trickier Maven moves.
+Dale Cooper
+This move requires a bit of improvisation from you, especially if it was
+chosen as part of character creation. You will need to open each session by
+narrating the Maven’s creepy dream. Fortunately, the dreams don’t have to
+make sense—they just need to be strange and unsettling. Think about the
+content of these dreams between sessions so you’re not fumbling around
+with the details in the heat of the moment. You might even head over to
+YouTube and watch some choice scenes from Twin Peaks to get inspired.
+Importantly: do not forget to reveal a Void Clue!
+Milton Hardcastle
+“Extrajudicial punishment” doesn’t necessarily mean harsh punishment.
+Make sure the player of the Maven with this move understands this. It
+would seriously break tone if the Maven in question pulled out a gun and
+shot a murder suspect in an act of ruthless vigilantism. Perhaps, instead,
+the Maven swipes some stock certificates belonging to the killer and gives
+them to the victim’s family as an unofficial form of restitution. Or perhaps
+a Maven publishes the killer’s prized salsa recipe on the internet for all to
+enjoy. The Milton Hardcastle move is designed to show the Maven’s rebel-
+lious streak, but it should be a rebelliousness that is appropriate for an
+elderly do-gooder.
+Additionally, “wrongdoer” doesn’t necessarily mean the killer. It can
+be any character who has done something worthy of retribution. For exam-
+ple, if Gordon Thune, the local banker, is trying to foreclose on a poor old
+widow’s home, perhaps the Maven whips up a publicity campaign meant to
+embarrass the bank. Or perhaps snooty June Willoughby has been spread-
+ing malicious gossip around town, and the Maven decides to punish her by
+telling the Brindlewood Bay Homeowners Association about her unautho-
+rized lawn ornaments.
+Angus MacGyver
+You are free to overrule any suggestion from a player that is just plain im-
+plausible or could be chalked up to pure luck. For example, if the Maven is
+trying to break into someone’s home and they trigger the Angus MacGyver
+move, you should overrule the player who says the Maven finds a key to the
+front door somewhere in the environment. Finding a key to the front door
+is not improvising, it’s dumb luck.
+30
+The Keeper
+Nevertheless, be flexible. Maybe something offered is a bit of a stretch,
+but it gets a good reaction at the table—go with it. Perhaps the player using
+the move proposes a plan that pushes against the boundaries of physics
+or good sense, but that they’re otherwise excited about—go with it. It won’t
+break the game if things get a little hokey or gonzo from time to time.
+Rick & A.J.
+If a player chooses this move, you have a new, exciting avenue for Keeper
+reactions at your disposal. When that player gets into a jam, have their sib-
+ling show up, rescue them, and then never let them forget it. Alternatively,
+have the sibling get into some kind of trouble that distracts the Mavens
+from an active mystery. Importantly: by choosing this move, the player has
+signaled to you that they want this sibling character to be a major part of
+the story, even if they’re occasionally troublesome.
+Jim Rockford
+Like the Dale Cooper move, this move requires some improvisation from
+you, especially if it’s chosen during character creation. Think about this
+move between sessions so you aren’t fumbling around in the heat of the
+moment. Importantly, this move represents a side story for the Maven who
+has it. Have fun with it: the messages don’t need to make much sense in
+the beginning, they merely need to give the Maven some sort of task. The
+more cryptic, the better, especially at the start. Over time, the tasks can
+start to logically flow from one another or the motives of the caller can
+start to come into focus. As the Maven collects marks on her Crown of the
+Void, the tasks should become more shocking or ominous. The key to this
+move is the tasks be unconnected to any mystery, past or present, though
+they may start to tie into the dark conspiracy at some point, as you see fit.
+The identity of the caller should never be revealed.
+The Dark Conspiracy
+One of your major responsibilities, especially in a game that lasts more
+than a few sessions, is to track and reveal the dark conspiracy of the Mid-
+wives of the Fragrant Void. The Midwives aren’t a major part of the story in
+the first few sessions of Brindlewood Bay. They will start to become more
+prevalent around Session Four or Five. Eventually, a distinct switch will
+take place and the Mavens’ principal concern will be the cult’s scheming.
+This culminates in the Void Mystery, wherein a final encounter between
+the Mavens and the Midwives takes place.
+31
+The Keeper
+You will use the Dark Conspiracy sheet
+to track the number of Void Clues the Ma-
+vens have turned up, and which parts of
+the conspiracy can be revealed at any giv-
+en time. The sheet is divided into “layers,”
+and as each new layer is uncovered, the el-
+ements detailed within that layer are avail-
+able to be shared with the Mavens (usually
+through The Meddling Move or Theorize),
+or can be used to inspire reactions that hin-
+der or endanger the Mavens.
+The final layer is the Void Mystery. This
+special mystery isn’t a murder mystery, but
+rather a mystery about the final ritual the
+If the Dale Cooper move
+and/or the Fox Mulder
+move are in play, the dark
+conspiracy will be of more
+immediate concern to the
+Mavens, and the Void
+Mystery will come about
+a little quicker. If you don’t
+want to introduce aspects
+of the dark conspiracy so
+early in your game, you
+can simply make these
+moves unavailable at the
+start.
+Midwives need to complete in order to
+bring forth a child of Persephone. Solving this mystery means stopping the
+Midwives from completing the ritual. The Keeper is responsible for writing
+the Void Mystery.
+Writing the Void mystery
+Don’t be intimidated by the idea of writing the Void Mystery. Many aspects
+of the Void Mystery are similar to those of a regular murder mystery, and
+by the time you are ready to write the Void Mystery, you will be so expe-
+rienced with Brindlewood Bay, and will have compiled so many interest-
+ing facts about the Midwives, coming up with details for this final mys-
+tery should be pretty easy. Additionally, you can simply populate the Void
+Mystery with many details from the previous mysteries, perhaps slightly
+recontextualized.
+Preliminary steps
+At the outset, you need to decide on two key details:
+• Which child of Persephone are the Midwives trying to bring into the
+world? What’s it called (the Render of All Flesh, the Prismatic Lord, the
+Deepness, or something else)? What does it look like? What calamity will
+befall the world should the Midwives succeed?
+• Which non-player character reveals the existence of the final ritual to the
+Mavens? Pick a character from a past mystery, someone with connections
+or someone who is in a place to do some research. Alternatively, if a Ma-
+ven has the Dale Cooper move, the Fox Mulder move, or the Jim Rockford
+move, the existence of the final ritual can be revealed via a dream, the
+informant, or the answering machine character, respectively.
+32
+The Keeper
+Elements of the Void Mystery
+• Give the Void Mystery a title. Something ominous that references the
+name of the child of Persephone is a good place to start.
+• The Void Mystery has a complexity rating of 10.
+• Decide how to present the mystery. It can be as easy as the character
+chosen in the preliminary steps simply showing up to a Murder Mavens
+meeting and telling them what’s going on (or the Mavens are told in one
+of the optional, move-based manners from the preliminary steps). When
+presenting the mystery, give the Mavens one or two names of cast charac-
+ters, or one or two locations of interest, so they have something to work
+with in the beginning.
+• There is no establishing question for the Void Mystery
+• Decide on the cast (in a normal mystery, these characters are called Sus-
+pects). Ten or so characters is a good number here. You can create new
+characters, but feel free to use characters from the Dark Conspirators
+section of the dark conspiracy sheet, characters from past mysteries, or
+recurring characters in and around Brindlewood Bay. For new charac-
+ters, be sure to jot down some descriptive notes.
+• Choose four or five Paint the Scene locations, perhaps from previous
+mysteries, but give them all the same Paint the Scene question: In what
+way has this place been affected by the dark magic of the Midwives?
+• Make a list of twenty clues. The clues can be new to this mystery or can
+be unused clues from previous mysteries. In the latter case, you may need
+to recontextualize them a bit.
+Theorize (Void Mystery Version)
+Theorize works similarly here, but with the following adjustments:
+• The “solution” to the mystery is the time, location, and manner of the final
+ritual needed to summon the child of Persephone.
+• There is no 12+ result.
+33
+Session 1 Procedure
+Session 1 Procedure
+1. Read the game and gather play materials
+The Keeper should read these rules in their entirety and then gather the
+materials needed for the first play session. You will need:
+• At least two 6-sided dice, though more is better.
+• Index cards to make character name tents.
+• Writing utensils.
+• Enough character sheets for each player to have one.
+• At least one reference sheet, but one per player is better.
+• At least one Maven moves sheet.
+• The mystery sheet for the chosen mystery (“Dad Overboard” is recom-
+mended for your first session).
+• The dark conspiracy sheet.
+2. Player and Keeper introductions
+Going around the table, each participant should state their name, their
+pronouns, and anything else the group might find interesting about them.
+3. CATS
+CATS is an acronym that stands for Concept, Aim, Tone, and Subject Mat-
+ter. It is usually presented by the Keeper and helps to establish some basic
+expectations for how the game is going to proceed. It’s also a low-stakes
+way for the Keeper to get accustomed to being in the spotlight.
+If you’re the Keeper, you can develop your own CATS for Brindlewood Bay,
+or simply read the following aloud:
+“Concept: Brindlewood Bay is a roleplaying game about a group of elderly
+women—members of the local Murder Mavens mystery book club—who
+frequently find themselves investigating (and solving!) real-life murder
+mysteries. They become increasingly aware that there are supernatural
+forces that connect the cases they are working on and, in particular, a cult
+dedicated to the dark, monstrous aspect of the goddess Persephone will
+come to vex them. The game is directly inspired by the television show
+Murder, She Wrote, but also takes inspiration from the works of H.P. Love-
+craft, ‘cozy’ crime dramas, and American TV shows from the ‘70s, ‘80s,
+and ‘90s.”
+35
+Session 1 Procedure
+“Aim: Today we’re going to begin by creating characters. After we create
+characters, we’ll introduce them and populate a special section on the
+character sheet called A Cozy Little Place. After that, we’ll take a short
+break. When we come back from the break, we’ll have a Beginning of Ses-
+sion procedure, a special set of scenes called Cozy Vignettes, and then I’ll
+present the mystery your characters will be investigating. After that, we’ll
+begin regular play. At the end of the session, we’ll have a short debrief. In
+future sessions, I’ll present new mysteries near the beginning of the ses-
+sion and we’ll dive right into regular play.”
+“Tone: The tone of this game bounces between the cozy and the creepy.
+Most of the time, it will be fairly lighthearted, but occasionally it will get
+very dark and menacing. Some kitschy, campy humor is permissible here—
+and very much in keeping with some of the game’s inspirations—but above
+all, your characters should take everything they do very seriously, even if
+we’re having a bit of a laugh from time to time.”
+“Subject Matter: The subject matter may occasionally get dark and chal-
+lenging, especially when the dark cult rears its head. In order to help en-
+sure no one’s fun is ruined by triggering subject matter, we’re going to be
+using the following safety tools…”
+For that last part, you should then explain the different safety tools that will
+be in use. The author of this game prefers Lines & Veils and the X-card, but
+you can use whatever tools your group is comfortable with.
+CATS is a creation of Patrick O’Leary, slightly modified for these rules.
+4. Character Creation
+Here are the steps for character creation. Everyone can do these steps as
+they wish, but should stop when they get to the section of their character
+sheet called A Cozy Little Place.
+1. Circle a Name and think of a surname
+2. Circle a Style
+3. Circle a Cozy Activity (no two Mavens can have the same cozy activity).
+4. Assign 1 point to one of the abilities and then note the final ability mod-
+ifiers.
+5. Choose a Maven move from the Maven Moves sheet (no two Mavens
+can share the same Maven move in the beginning, and the Dale Cooper
+move and the Fox Mulder move cannot both be chosen).
+6. Wait for everyone else to be finished.
+36
+Session 1 Procedure
+5. Character Introductions and A Cozy Little Place
+Go around the table and have every player introduce their Murder Maven
+by Name, Style, Cozy Activity, and Maven move.
+Then, go around the table again and have each player describe three key
+aspects of their Maven’s earlier life:
+• Their deceased partner.
+• Their children, if any (pets are ok here, too)
+• Their career before they retired to Brindlewood Bay.
+After a player discusses each of the three points above, the other players
+and Keeper should then name one object that can be found in their home
+in Brindlewood Bay. The player should note these objects on the part of
+their character sheet called A Cozy Little Place. By the end of this process,
+there should be between three and five objects in the player’s Cozy Little
+Place. If needed, someone can name more than one object.
+6. Break
+Take a five minute break so everyone can get a drink of water and think a
+bit about their character.
+7. Beginning of Session
+Each player should now mark two End of Session questions in addition to
+the first, which is always marked. If any characters have Maven moves that
+fire off at the beginning of a session, resolve them now.
+8. Cozy Vignettes
+Each player narrates a short vignette showing their Maven enjoying her
+life in Brindlewood Bay. These scenes should be light and breezy or warm
+and cozy; they should show the Maven enjoying her hobbies, helping with
+a community project, or working around her home.
+9. The Keeper Presents a Mystery
+The Keeper will frame one or more scenes in which a murder mystery is
+introduced to the Mavens. The Keeper will also inform the players of the
+mystery’s complexity rating, from 6 to 8. The presentation will include an
+establishing question that closely ties one or more Mavens to the mystery.
+37
+Session 1 Procedure
+10. Investigation
+The bulk of the session will be taken up by the Murder Mavens’ investiga-
+tion of the mystery. The players can pursue any leads their Mavens might
+be interested in, or they can request downtime scenes in which we see
+the Mavens bonding with each other or members of the community. The
+Keeper should call for breaks throughout, as needed. Note that the Mavens
+may not solve the mystery this session and that’s ok—it carries over to the
+next session.
+11. Crown Scenes
+There are two special sections on the character sheet: The Crown of
+the Queen and The Crown of the Void. When text from those sections is
+marked during play, the player of the Maven in question must do as the text
+instructs. This frequently means narrating a very specific type of scene.
+Players can narrate such scenes whenever they wish, but must do so be-
+fore the end of the session. When there are about fifteen minutes remain-
+ing in the scheduled play time, the Keeper should wrap up whatever scene
+is taking place and then call for Crown scenes that have not yet taken place.
+12. End of Session Questions
+Go around the table and have each player read aloud their marked End
+of Session questions. For each one they answer “Yes” to, they mark 1 XP.
+13. Stars & Wishes
+The Keeper and players should take a few minutes to share their stars and
+wishes. Stars are things about the session the participant enjoyed. Wishes
+are things they hope to see in the next session.
+38
