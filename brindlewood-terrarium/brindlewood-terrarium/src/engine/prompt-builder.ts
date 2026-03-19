@@ -229,7 +229,7 @@ export function buildDayMoveResolutionPrompt(
   chosenAction: ActionProposal,
   roll: number,
   total: number,
-  result: 'hit' | 'partial' | 'critical'
+  result: 'hit' | 'partial' | 'miss' | 'critical'
 ): string {
   const { maven, suspects, gameState, locationName } = ctx;
 
@@ -257,7 +257,7 @@ ${buildSuspectList(suspects)}
 ${buildClueHistory(gameState.discoveredClues)}
 
   # Your Task
-  ${result === 'partial' ? `Describe what you're trying to do, then describe the vulnerability or cost you're facing. State clearly: "You could back down now, or push through despite the risk." This is a choice for the player.` : `Narrate how you succeed at the risky action. You hold steady or accomplish what you intended. Keep it to 3-4 sentences.`}
+  ${result === 'miss' ? `Narrate how the risky action fails badly. Something unfortunate happens. Keep it to 3-4 sentences.` : result === 'partial' ? `Describe what you're trying to do, then describe the vulnerability or cost you're facing. State clearly: "You could back down now, or push through despite the risk." This is a choice for the player.` : `Narrate how you succeed at the risky action. You hold steady or accomplish what you intended. Keep it to 3-4 sentences.`}
 
 Be vivid and in character as ${maven.name}.`;
 }

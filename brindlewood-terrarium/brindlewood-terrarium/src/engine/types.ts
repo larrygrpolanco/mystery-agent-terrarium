@@ -61,7 +61,7 @@ export interface SceneLogEntry {
   narration: string;
   roll?: number;
   ability?: keyof Maven['stats'];
-  result?: 'hit' | 'miss' | 'partial';
+  result?: 'hit' | 'miss' | 'partial' | 'critical';
   complication?: string;
   clue?: DiscoveredClue;
 }
@@ -93,7 +93,7 @@ export interface GameState {
     narration: string;
     roll?: number;
     ability?: keyof Maven['stats'];
-    result?: 'hit' | 'miss' | 'partial';
+    result?: 'hit' | 'miss' | 'partial' | 'critical';
     complication?: string;
     isVoidClue?: boolean;
   } | null;
