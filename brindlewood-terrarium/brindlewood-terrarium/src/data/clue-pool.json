@@ -1,0 +1,23 @@
+[
+  { "id": "clue-01", "text": "A blood-soaked rug" },
+  { "id": "clue-02", "text": "Family pictures, discarded" },
+  { "id": "clue-03", "text": "A mis-reported detail about the time of Albert's death" },
+  { "id": "clue-04", "text": "A wristwatch set to the wrong time" },
+  { "id": "clue-05", "text": "A diary entry: 'I just can't take it anymore.'" },
+  { "id": "clue-06", "text": "A small handgun, like you might keep in a purse" },
+  { "id": "clue-07", "text": "Stock certificates in a strange hiding place" },
+  { "id": "clue-08", "text": "Piles of receipts for extravagant purchases" },
+  { "id": "clue-09", "text": "A guest list for an upcoming Krause family party, with one name conspicuously crossed out" },
+  { "id": "clue-10", "text": "An attempt to collect a debt" },
+  { "id": "clue-11", "text": "An argument between two Suspects on the deck of The Regal Lady; the words they're saying are unclear" },
+  { "id": "clue-12", "text": "An antique vase — a family heirloom — shattered" },
+  { "id": "clue-13", "text": "A love letter from a young military vet" },
+  { "id": "clue-14", "text": "An expensive diamond earring, its mate missing" },
+  { "id": "clue-15", "text": "A cod with a rat stuffed in its mouth" },
+  { "id": "clue-16", "text": "A sequence of numbers written on a slip of paper" },
+  { "id": "clue-17", "text": "Documents that call into question the paternity of a child" },
+  { "id": "clue-18", "text": "Instructions to cut someone out of a will" },
+  { "id": "clue-19", "text": "A taboo love affair" },
+  { "id": "clue-20", "text": "An expensive samoyed, missing" },
+  { "id": "clue-21", "text": "Signs of a struggle on the deck of The Regal Lady — scratches, a torn rope, an overturned chair" }
+]

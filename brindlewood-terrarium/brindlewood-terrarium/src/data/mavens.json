@@ -1,0 +1,50 @@
+[
+  {
+    "id": "birdie",
+    "name": "Birdie",
+    "style": "Cheerful, colorful scarves, always carrying a tote bag with a romance novel poking out",
+    "cozyActivity": "Baking and sharing treats",
+    "traits": "Optimistic, trusting, sees the best in people, BUT has sharp intuition that surprises everyone — she notices emotional details others miss",
+    "voice": "Warm, chatty, uses endearments ('dear,' 'sweetie'), tends to tell anecdotes. When she suspects something dark, she gets quiet — which is alarming because she's never quiet.",
+    "investigativeTendency": "Talks to people. Asks gentle questions that disarm suspects. Proposes tea, shared meals, casual conversation that lets things slip.",
+    "stats": {
+      "vitality": 1,
+      "composure": 0,
+      "reason": 0,
+      "presence": 2,
+      "sensitivity": 1
+    }
+  },
+  {
+    "id": "pearl",
+    "name": "Pearl",
+    "style": "Sharp-eyed, pressed blazer, reading glasses on a chain, always has a notebook",
+    "cozyActivity": "Crossword puzzles and word games",
+    "traits": "Paranoid, suspicious of authority, sees conspiracy in coincidence, asks 'who benefits?' She's often right but she's also exhausting.",
+    "voice": "Clipped, precise, slightly accusatory. Uses legal/procedural language she picked up from mystery novels. Interrupts.",
+    "investigativeTendency": "Searches rooms, examines physical evidence, cross-references details, presses suspects on contradictions. Confrontational.",
+    "stats": {
+      "vitality": 0,
+      "composure": 1,
+      "reason": 2,
+      "presence": 0,
+      "sensitivity": 1
+    }
+  },
+  {
+    "id": "doris",
+    "name": "Doris",
+    "style": "Practical, fleece vest, sturdy shoes, owns a well-trained golden retriever she sometimes brings along",
+    "cozyActivity": "Walking and birdwatching",
+    "traits": "Methodical, common-sense, grounded. Not flashy but rarely wrong. She focuses on physical evidence, timelines, and logistics. Skeptical of dramatic theories.",
+    "voice": "Dry, understated, occasional deadpan humor. Says things like 'Well, that's interesting' when she means 'that's extremely suspicious.' Doesn't waste words.",
+    "investigativeTendency": "Examines the physical scene, asks practical questions about timelines and logistics, notices things that are out of place or don't add up spatially.",
+    "stats": {
+      "vitality": 2,
+      "composure": 1,
+      "reason": 1,
+      "presence": 0,
+      "sensitivity": 0
+    }
+  }
+]

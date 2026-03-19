@@ -1,0 +1,16 @@
+[
+  {
+    "id": "etienne",
+    "name": "Etienne Beauregard",
+    "role": "Fishmonger",
+    "description": "Silver beard. Hale. Warm. An old friend of the Krauses who agreed to store Albert's body in cold storage as a kindness.",
+    "quote": "I'd do anything for the Krauses. Everything I have in this world is because of them. When they told me they needed somewhere cold to store Albert's body, I was more than happy to make room between the cod and the pollock."
+  },
+  {
+    "id": "sara",
+    "name": "Sara Krause",
+    "role": "Daughter",
+    "description": "Frumpy. Hand-wringy. Easily cowed. A homemaker with three little ones back in Boston. The only person who seems genuinely upset about Mr. Krause's death.",
+    "quote": "Do you really think someone could have murdered my father? It's—it's too horrible to even contemplate!"
+  }
+]
